@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Quantos anos você tem?</h1>;
+    return <h1>Eu te amo meu amor!</h1>;
 }
 
 export default Home;
